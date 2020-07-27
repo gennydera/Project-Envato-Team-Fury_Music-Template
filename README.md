@@ -5,9 +5,7 @@ HNGi7 Stage Three Task
 ## Music Template
 
 ****************
-PM : Daniel Bemsen
-@august
-danireptor7@gmail.com
+
 ****************
 
 The proper file structure has been created...
